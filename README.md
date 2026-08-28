@@ -1,2 +1,2 @@
 # -projeto-copa-backend
-Trabalho da opa do Mundo feito por Bruno, Matheus Eduardo, Maysa e Julia.
+Trabalho da copa do Mundo feito por Bruno, Matheus Eduardo, Maysa e Julia :)
